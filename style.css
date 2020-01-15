@@ -4,7 +4,7 @@ body
 {
     font-family: "Open Sans", sans-serif;
     margin: 0;
-    background-color: #fffcf4;
+    background-color: #b5b9bd;
 }
 
 section h1, footer h1, nav a
@@ -20,7 +20,7 @@ header
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    background-color:#1f233e;
+    background-color:#1274;
     padding: 1% 5%;
 }
 
@@ -82,7 +82,7 @@ nav a:hover
 #banniere_image
 {
     height: 500px;
-    background: url('images/banner.jpg') no-repeat;
+    background: url('images/Police-2.PNG') no-repeat;
     position: relative;
     box-shadow: 0px 4px 4px #1c1a19;
     background-size: cover;
@@ -139,7 +139,7 @@ aside
 {
     flex: 3.2;
     position: relative;
-    background-color: #1f233e;
+    background-color: #1274;
     box-shadow: 0px 2px 5px #1c1a19;
     border-radius: 5px;
     padding: 10px;
@@ -211,7 +211,7 @@ h3{
 
 #newsletter form button {
     border: none;
-    background-color: #254a93;
+    background-color: #3e3d40;
     color: #fff;
     font-size: 14px;
     padding: 8px 15px;
@@ -233,7 +233,7 @@ h3{
 }
 
 .copyright {
-    background-color: #254a93;
+    background-color: black;
     padding: 20px 0;
     font-family: "Roboto", sans-serif;
 }
